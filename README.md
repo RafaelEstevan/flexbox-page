@@ -1,5 +1,6 @@
 # Página Flexbox
 Este é um projeto de uma página simples feito com CSS Flexbox para demonstrar suas funcionalidades. A ideia é mostrar como é possível criar um layout responsivo e flexível utilizando somente esta tecnologia.
+https://rafaelestevan.github.io/flexbox-page/
 
 # Funcionalidades
 
